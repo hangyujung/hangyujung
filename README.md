@@ -2,12 +2,6 @@
 
 Han Gyu Jung
 
-====history====
-
-OverWatch : Grand Master
-
-
-
 email : ssikssikii5@gmail.com
 <!--
 **hangyujung/hangyujung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
