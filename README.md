@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 Han Gyu Jung
 
