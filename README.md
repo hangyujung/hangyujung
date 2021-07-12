@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Han Gyu Jung
+name : Han Gyu Jung
 
 email : ssikssikii5@gmail.com
 
