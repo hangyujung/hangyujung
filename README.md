@@ -11,8 +11,7 @@ I'm interested in Web Development. <br/>
 Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 
 <br/>
-
- 
+<br/>
  
 <h3>💻 Techs that I've used at twice or more 💻</h3>
  
@@ -40,7 +39,8 @@ Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
-
+<br/><br/>
+ 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii/)
 
 </div>
