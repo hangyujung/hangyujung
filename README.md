@@ -52,6 +52,7 @@ Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 
 <br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii/)
 
 
  
