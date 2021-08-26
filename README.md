@@ -4,23 +4,21 @@
 <div align = "center">
 
 <br/>
-<h3>Hi there, 🥳</h3><br/>
-Hello, I'm GyuJung Han(Joy).<br/>
+<h3>Hi there, 🥳</h3>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhangyujung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssikssikii5@gmail.com)](mailto:ssikssikii5@gmail.com)
+<br/> 
+Hello, I'm GyuJung Han.<br/>
 My goal is to give good influence to society.<br/>
-I'm interested in Web Development
-Currently, I am studying at SSAFY(Samsung Software Academy For Youth)
+I'm interested in Web Development. <br/>
+Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 
 <br/>
  
 
 <br/><br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhangyujung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssikssikii5@gmail.com)](mailto:ssikssikii5@gmail.com)
-
-  
-﹏﹏﹏﹏﹏﹏﹏
-
+ 
 <br/><br/>
  
 <h3>💻 Techs that I've used at twice or more 💻</h3>
@@ -53,11 +51,11 @@ Currently, I am studying at SSAFY(Samsung Software Academy For Youth)
 <br/><br/>
 
 <br/>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii/)
+
 
  
-</div
+</div>
  
  
 
