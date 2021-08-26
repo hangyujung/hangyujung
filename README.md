@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=60&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)
 
 <div align = "center">
 
-<br/> 
 <h3>Hello🥳, I'm GyuJung Han.<br/></h3>
 My goal is to give good influence to society.<br/>
 I'm interested in Web Development. <br/>
@@ -50,7 +49,7 @@ I'm interested in Web Development. <br/>
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=60&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
 
 
 
