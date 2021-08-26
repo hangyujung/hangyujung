@@ -8,8 +8,8 @@
 Hello, I'm GyuJung Han.<br/>
 My goal is to give good influence to society.<br/>
 I'm interested in Web Development. <br/>
-### :mortar_board: Education 
-- Chonnam National University Bachelor's Degree in Software Engineering
+### :mortar_board: Education  <br />
+- Chonnam National University Bachelor's Degree in Software Engineering  <br />
 - Currently, I am studying at Samsung Software Academy For Youth(SSAFY)
 
 <br/>
