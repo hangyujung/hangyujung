@@ -18,7 +18,6 @@ Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 <br/><br/>
 
  
-<br/><br/>
  
 <h3>💻 Techs that I've used at twice or more 💻</h3>
  
