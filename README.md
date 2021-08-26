@@ -4,25 +4,26 @@
 <div align = "center">
 
 <br/>
-<h3>Joyful Joy 🥳</h3><br/>
-Hello, I'm Juhee (Joy).<br/>
+<h3>Hi there, 🥳</h3><br/>
+Hello, I'm GyuJung Han(Joy).<br/>
 My goal is to give good influence to society.<br/>
-Have a day full of JOY today.
+I'm interested in Web Development
+Currently, I am studying at SSAFY(Samsung Software Academy For Youth)
 
+<br/>
+ 
 
 <br/><br/>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhangyujung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssikssikii5@gmail.com)](mailto:ssikssikii5@gmail.com)
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com)
-<!-- [![Blog Badge](http://img.shields.io/badge/-Blog-green?style=flat-square&logo=Naver&link=https://blog.naver.com/chajuhui123)](https://blog.naver.com/chajuhui123)
- --> 
   
 ﹏﹏﹏﹏﹏﹏﹏
 
 <br/><br/>
  
-<h3>💻 Tech Stack 💻</h3>
+<h3>💻 Techs that I've used at twice or more 💻</h3>
  
 <br/>
   
@@ -36,11 +37,11 @@ Have a day full of JOY today.
   
 <br/><br/>
  
-<h3>💻 Tech Stack 💻</h3>
+<h3>💻 Techs that I've used at least once 💻</h3>
  
 <br/>
   
-<img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-3766AB?style=flat-square&logo=C++&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
@@ -49,8 +50,16 @@ Have a day full of JOY today.
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 
   
+<br/><br/>
 
-</div>
+<br/>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii)
+
+ 
+</div
+ 
+ 
 
 <br/>
 
