@@ -2,10 +2,8 @@
 
 <div align = "center">
 
-<h3>Hi there, 🥳</h3>
-
 <br/> 
-Hello, I'm GyuJung Han.<br/>
+Hello🥳, I'm GyuJung Han.<br/>
 My goal is to give good influence to society.<br/>
 I'm interested in Web Development. <br/>
   <br/>
