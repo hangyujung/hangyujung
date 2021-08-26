@@ -3,11 +3,11 @@
 <div align = "center">
 
 <br/> 
-</h3>Hello🥳, I'm GyuJung Han.<br/></h3>
+<h3>Hello🥳, I'm GyuJung Han.<br/></h3>
 My goal is to give good influence to society.<br/>
 I'm interested in Web Development. <br/>
   <br/>
- </h3>:mortar_board: Education  <br /></h3>
+ <h3>:mortar_board: Education  <br /></h3>
 - Chonnam National University Bachelor's Degree in Software Engineering  <br />
 - Currently, I am studying at Samsung Software Academy For Youth(SSAFY)
 
