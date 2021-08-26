@@ -51,8 +51,7 @@ Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 <br/><br/>
 
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii/)
+
 
 
  
@@ -61,6 +60,7 @@ Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
  
 
 <br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii/)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
