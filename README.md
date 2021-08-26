@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 
-
 <div align = "center">
 
-<br/>
 <h3>Hi there, 🥳</h3>
 
 <br/> 
@@ -13,9 +11,6 @@ I'm interested in Web Development. <br/>
 Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 
 <br/>
- 
-
-<br/><br/>
 
  
  
@@ -31,7 +26,7 @@ Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   
-<br/><br/>
+<br/>
  
 <h3>💻 Techs that I've used at least once 💻</h3>
  
@@ -44,12 +39,6 @@ Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-
-  
-<br/><br/>
-
-<br/>
-
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ssikssikii)](https://solved.ac/ssikssikii/)
