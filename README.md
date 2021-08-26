@@ -8,7 +8,9 @@
 Hello, I'm GyuJung Han.<br/>
 My goal is to give good influence to society.<br/>
 I'm interested in Web Development. <br/>
-Currently, I am studying at SSAFY(Samsung Software Academy For Youth).
+### :mortar_board: Education 
+- Chonnam National University Bachelor's Degree in Software Engineering
+- Currently, I am studying at Samsung Software Academy For Youth(SSAFY)
 
 <br/>
 <br/>
